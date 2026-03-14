@@ -39,7 +39,7 @@ FastAPI 게시판 애플리케이션을 k3s 쿠버네티스 클러스터에 배�
 - Locust를 활용한 부하 테스트 및 성능 개선 검증
 
 ## 시스템 아키텍처
-<img width="3571" height="2111" alt="제목 없는 다이어그램-페이지-1 drawio" src="https://github.com/user-attachments/assets/b8016db1-eab4-4456-990c-22e8697e64d2" />
+<img width="3571" height="2111" alt="Image" src="https://github.com/user-attachments/assets/5db10a43-1175-4c6a-8fa2-8cfcea508ce2" />
 
 ## Wiki
 
