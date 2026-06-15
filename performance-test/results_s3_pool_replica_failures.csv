@@ -1,0 +1,6 @@
+Method,Name,Error,Occurrences
+GET,/post/7,HTTPError('404 Client Error: Not Found for url: /post/7'),1
+GET,/post/8,HTTPError('404 Client Error: Not Found for url: /post/8'),1
+POST,/login,HTTPError('429 Client Error: Too Many Requests for url: /login'),40
+GET,/post/6,HTTPError('404 Client Error: Not Found for url: /post/6'),1
+GET,/post/2,HTTPError('404 Client Error: Not Found for url: /post/2'),1
